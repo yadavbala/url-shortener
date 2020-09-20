@@ -39,5 +39,4 @@ They promote sharing. You can simply fit more links and content in less space wi
 - Add URL's to collection and obtain shortened URL's
 - Retrieve all URL's.
 - Update URL
-  - Update Links which were previously created to prevent breaking of changed URL's.
 - Delete URL's from collection.
